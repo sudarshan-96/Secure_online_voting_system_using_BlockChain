@@ -1,4 +1,5 @@
 # 🔐 Secure Online Voting System using Blockchain
+![Presentation x1-page-00001](https://github.com/user-attachments/assets/7d55a08a-ad08-4137-a209-b017e8098004)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tech: Blockchain](https://img.shields.io/badge/Tech-Blockchain-blue?logo=blockchain)](#-tech-stack)
